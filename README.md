@@ -11,7 +11,7 @@
 KoELECTRA base v3 모델 사용
 
 <b>실행 방법</b>  
-KOR.zip을 압축해제하여 모두 파일 업로드
+`KOR.zip` 을 압축해제하여 모두 파일 업로드
 
 각 셀을 실행하며 진행
 
@@ -40,7 +40,7 @@ koElectra 코드 활용 : https://github.com/monologg/KoELECTRA
 ELECTRA base 모델 사용
 
 <b>실행 방법</b>  
-ENG.zip을 압축해제하여 모두 파일 업로드
+`ENG.zip`을 압축해제하여 모두 파일 업로드
 
 각 셀을 실행하며 진행
 
